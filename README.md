@@ -33,3 +33,7 @@ The Style Recommender leverages Convolutional Neural Networks (CNN) and K-Neares
 The Virtual Try-On feature allows users to virtually try on clothes. This component uses state-of-the-art computer vision techniques to overlay selected apparel onto the user's image, providing a realistic preview of how the clothes would look when worn.
 
 ![Virtual Try-On](./images/image2.jpeg)
+
+## Presentation
+
+For more details, you can check out the [Fashion X-ray Presentation](./images/Presentation.pdf).
