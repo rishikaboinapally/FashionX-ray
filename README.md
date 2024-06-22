@@ -37,3 +37,7 @@ The Virtual Try-On feature allows users to virtually try on clothes. This compon
 ## Presentation
 
 For more details, you can check out the [Fashion X-ray Presentation](./images/Presentation.pdf).
+
+## Video Demonstration
+
+[![Project Demo]](https://youtu.be/rwzXQ0GcF8A?si=_a9_fou06ptZOO-d)
